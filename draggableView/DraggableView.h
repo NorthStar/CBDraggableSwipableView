@@ -16,6 +16,9 @@
 @property (nonatomic, strong) UILabel *yesLabel;
 @property (nonatomic, strong) UILabel *noLabel;
 
+@property (nonatomic, strong) UIGestureRecognizer *singleTab;
+
 - (id)initWithFrame:(CGRect)frame image:(UIImage*)aImage;
 
+- (void)imageTaped:(UIGestureRecognizer *)gestureRecognizer;
 @end

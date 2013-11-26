@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>73A190F1-28B3-4566-A12F-1F91CDE4DFE5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CBDraggableView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EB3D3F3E-7739-41BA-9A73-A00BAAB655D5</key>
+		<string>https://github.com/NorthStar/CBDraggableView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CBDraggableView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EB3D3F3E-7739-41BA-9A73-A00BAAB655D5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/NorthStar/CBDraggableView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EB3D3F3E-7739-41BA-9A73-A00BAAB655D5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB3D3F3E-7739-41BA-9A73-A00BAAB655D5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CBDraggableView</string>
+		</dict>
+	</array>
+</dict>
+</plist>

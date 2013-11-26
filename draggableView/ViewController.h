@@ -10,4 +10,6 @@
 
 @interface ViewController : UIViewController
 
+@property NSMutableArray *photos;
+
 @end
