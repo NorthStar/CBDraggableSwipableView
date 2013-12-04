@@ -12,4 +12,5 @@
 
 @property NSMutableArray *photos;
 
+@property NSMutableArray *tempArray;
 @end

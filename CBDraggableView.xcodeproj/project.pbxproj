@@ -324,6 +324,7 @@
 				FF6B33F21797AE5D002A69B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

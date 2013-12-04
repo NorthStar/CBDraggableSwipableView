@@ -1,0 +1,128 @@
+TCBDraggableView
+v7
+r1
+cCheck dependencies
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/build/Debug/CBDraggableView.app
+t2
+s0
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/build/Debug/CBDraggableView.app/Contents/Info.plist
+t2
+s0
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/build/Debug/CBDraggableView.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/build/Debug/CBDraggableView.app/Contents/Resources/Default-568h@2x.png
+t2
+s0
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/build/Debug/CBDraggableView.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/build/Debug/CBDraggableView.app/Contents/Resources/Default@2x.png
+t2
+s0
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/build/Debug/CBDraggableView.app/Contents/Resources/coolbeet.jpg
+t2
+s0
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/build/Debug/CBDraggableView.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/build/Debug/CBDraggableView.app/Contents/Resources/en.lproj/ViewController.nib
+t2
+s0
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/build/Debug/CBDraggableView.app/Contents/Resources/fay.jpg
+t2
+s0
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/build/Debug/CBDraggableView.app/Contents/Resources/suyu.jpg
+t2
+s0
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/draggableView/Default-568h@2x.png
+c000000005294351200000000000048A2
+t1385444626
+s18594
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/draggableView/Default.png
+c0000000052943512000000000000198C
+t1385444626
+s6540
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/draggableView/Default@2x.png
+c00000000529435120000000000003EEB
+t1385444626
+s16107
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/draggableView/coolbeet.jpg
+c0000000052943512000000000003E329
+t1385444626
+s254761
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/draggableView/en.lproj/InfoPlist.strings
+c0000000052943512000000000000002D
+t1385444626
+s45
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/draggableView/en.lproj/ViewController.xib
+c0000000052943AB5000000000000056E
+t1385446069
+s1390
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/draggableView/fay.jpg
+c0000000052944144000000000001B9AD
+t1385447748
+s113069
+
+N/Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/draggableView/suyu.jpg
+c0000000052944561000000000001F8AB
+t1385448801
+s129195
+
+NdraggableView/CBDraggableView-Info.plist
+c0000000052943512000000000000048B
+t1385444626
+s1163
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies407721860#407721860#0(63"[BEROR]error: There is no SDK with the name or path 'iphoneos'1(4@55"error: There is no SDK with the name or path 'iphoneos'407721860#18446744073709551615#0#0(1@0"0(0#1#0"17197397504#0"0#
+
+CCompileXIB /Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/draggableView/en.lproj/ViewController.xib
+r0
+
+CCopyStringsFile /Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/build/Debug/CBDraggableView.app/Contents/Resources/en.lproj/InfoPlist.strings draggableView/en.lproj/InfoPlist.strings
+r0
+
+CCpResource build/Debug/CBDraggableView.app/Contents/Resources/Default-568h@2x.png draggableView/Default-568h@2x.png
+r0
+
+CCpResource build/Debug/CBDraggableView.app/Contents/Resources/Default.png draggableView/Default.png
+r0
+
+CCpResource build/Debug/CBDraggableView.app/Contents/Resources/Default@2x.png draggableView/Default@2x.png
+r0
+
+CCpResource build/Debug/CBDraggableView.app/Contents/Resources/coolbeet.jpg draggableView/coolbeet.jpg
+r0
+
+CCpResource build/Debug/CBDraggableView.app/Contents/Resources/fay.jpg draggableView/fay.jpg
+r0
+
+CCpResource build/Debug/CBDraggableView.app/Contents/Resources/suyu.jpg draggableView/suyu.jpg
+r0
+
+CProcessInfoPlistFile /Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/build/Debug/CBDraggableView.app/Contents/Info.plist draggableView/CBDraggableView-Info.plist
+r0
+
+CTouch /Users/xinleixu/Desktop/CodingCourses/181H/CBDraggableView/build/Debug/CBDraggableView.app
+r0
+
